@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://comps.canstockphoto.com/science-and-medicine-wallpaper-drawings_csp59356833.jpg");
+  background-size: cover;
+
+}
+#home{
+  color: yellow;
+  font size: 7em;
+  margin-left: 600px;
+}
+.intro{
+  color:white;
+}
