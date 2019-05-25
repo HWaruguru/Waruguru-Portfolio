@@ -1,43 +1,28 @@
-body{
-  background-image: url("https://comps.canstockphoto.com/science-and-medicine-wallpaper-drawings_csp59356833.jpg");
-  background-size: cover;
+body {
+  background-color: #d0edf1;
+  width: 100%
+}
 
-}
-#home{
-  color: yellow;
-  font size: 20px;
-  text align:center;
-  width: 0 auto;
-  margin: 200px;
-
-}
-.intro{
-  color:white;
-  font size: 20px;
-
-}
-.all{font size: 20px
-  opacity: 0.75;
-}
-.info a:hover {
-  background: white;
-  border: 1px solid red;
-  color: red;
-}
-.share {
-  border: 1px solid LightGrey;
-  padding: 40px 0px;
-  position: relative;
+.name {
+  font-family: 'Sofia';
+  font-size: 200px;
   text-align: center;
-  width: 100%;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  color: #8e4c9e;
 }
 
-.info{
-  background: red;
-  border: 1px solid red;
-  border-radius: 3px;
-  color: white;
-  display: inline-block;
-  padding: 14px;
-  text-decoration: none;
-  margin: 10px;
+.nav {
+  text-align: center;
+  margin-top: 7%;
+  color: #fff;
+}
+
+.nav a {
+  padding-right: 25px;
+  color: #bf223c;
+  font-size: 20px;
+  font-family: 'Pacifico';
+}
