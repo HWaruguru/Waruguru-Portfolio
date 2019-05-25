@@ -85,3 +85,40 @@ html, body, .container {
   font-family: 'Cardo';
   font-size: 18px;
 }
+
+.worktitle {
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Sofia';
+  color: #8e4c9e;
+  margin-top: 30%;
+}
+
+.work {
+  height: 87%;
+  width: 94%;
+  background-color: #add2eb;
+  padding: 3%;
+}
+
+.workleft {
+  width: 47%;
+  float: left;
+  background-color: #ec93a2;
+  height: 98%;
+  padding: 1%;
+  border-radius: 2%;
+}
+
+.workright {
+  width: 47%;
+  float: right;
+  background-color: #ec93a2;
+  height: 98%;
+  padding: 1%;
+  border-radius: 2%;
+}
+
+.workleft .nav {
+  margin-top: 30%;
+}
