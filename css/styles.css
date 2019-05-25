@@ -1,11 +1,16 @@
-body {
+html, body, .container {
   background-color: #d0edf1;
-  width: 100%
+  width: 100%;
+  height: 100%;
+}
+
+.landing {
+  height: 100%;
 }
 
 .name {
   font-family: 'Sofia';
-  font-size: 200px;
+  font-size: 160px;
   text-align: center;
   width: 70%;
   margin-left: 15%;
@@ -23,6 +28,35 @@ body {
 .nav a {
   padding-right: 25px;
   color: #bf223c;
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Pacifico';
+}
+
+.career {
+  font-size: 40px;
+  color: #398557;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.about {
+  height: 100%;
+  background-color: #dbc1e1;
+}
+
+.photo {
+  width: 50%;
+  border: 1px solid red;
+}
+
+.aboutcontent {
+  width: 50%;
+  border: 1px solid black;
+  float: right;
+}
+
+.photo img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
 }
