@@ -169,4 +169,26 @@ html, body, .container {
 margin-top: 20%;
 }
 
+.image img {
+  width: 450px;
+  height: 251px;
+  float: left;
+}
 
+.image a {
+  text-decoration: none;
+  font-size: 32px;
+  color: #bf223c;
+  text-align: center;
+  float: right;
+  width: 200px;
+  height: 59px;
+  border: 4px solid #8e4c9e;
+  font-family: 'Pacifico';
+}
+
+.linkdescription {
+  clear: both;
+  padding: 80px 30px;
+  font-size: 25px;
+}
