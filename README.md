@@ -2,7 +2,7 @@
 #### A portfolio for showcasing my work , 21/05/2019
 ### By Hannah Waruguru
 ## Description
-and the awesome things I have been learning towards becoming a software developer
+This portfolio is about the applying the awesome things I have been learning towards becoming a software developer.It is also a representation of myself and my journey towards becoming a Sofware Developer
 ## Setup/Installation Requirements
 * Clone this repository
 * cd to waruguru-portfolio
